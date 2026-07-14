@@ -19,6 +19,7 @@ raising well behaved silicon.
 ```text
 Engineering intelligence beyond automation.
 
+
 Name: Rachit Guha
 Education: CS Major (CSBS'28)
 Location: Maharashtra, India
