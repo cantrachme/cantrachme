@@ -17,9 +17,6 @@ raising well behaved silicon.
 />
 
 ```text
-Engineering intelligence beyond automation.
-
-
 Name: Rachit Guha
 Education: CS Major (CSBS'28)
 Location: Maharashtra, India
@@ -27,6 +24,9 @@ Learning: Agentic workflow and iOS Development
 Currently Building: Live projects on Django and Agentic AI
 Hobbies: Reading books (sometimes), watching movies
 Tools: VS Code, Antigravity, Xcode, Docker, Jira, Teams
+
+
+Engineering intelligence beyond automation.
 ```
 
 <br clear="left"/>
