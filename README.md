@@ -1,14 +1,22 @@
-<table border="0" cellspacing="0" cellpadding="20">
-<tr>
-<td valign="top">
+## Hey it's Rachit!
 
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="340"/>
+raising well behaved silicon.
 
-</td>
+<img
+  src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
+  align="left"
+  width="350"
+/>
 
-<td valign="top">
+<img
+  src="https://dummyimage.com/25x1/000000/000000.png&text="
+  width="25"
+  align="left"
+/>
 
 ```text
+Engineering intelligence beyond automation.
+
 Name: Rachit Guha
 Education: CS Major (CSBS'28)
 Location: Maharashtra, India
