@@ -10,7 +10,7 @@
 
 <pre>
 Name: Rachit Guha
-Education: CS Major, 3rd Year (Computer Science and Business Systems)
+Education: CS Major (CSBS'28)
 Location: Maharashtra, India
 Learning: Agentic workflow and iOS Development
 Currently Building: Live projects on Django and Agentic AI
