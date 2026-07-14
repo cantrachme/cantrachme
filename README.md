@@ -1,17 +1,23 @@
-## Hey it's Rachit!
+<table>
+<tr>
+<td width="340">
 
-raising well behaved silicon.
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="300"/>
 
-<img align="left"
-     width="300"
-     src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
-     alt="Developer GIF"/>
+</td>
 
-```text
+<td>
+
+<pre>
 Name: Rachit Guha
 Education: CS Major, 3rd Year (Computer Science and Business Systems)
 Location: Maharashtra, India
-Learning: Agentic workflow and iOS Development 
+Learning: Agentic workflow and iOS Development
 Currently Building: Live projects on Django and Agentic AI
 Hobbies: Reading books (sometimes), watching movies
 Tools: VS Code, Antigravity, Xcode, Docker, Postman, Jira, Teams
+</pre>
+
+</td>
+</tr>
+</table>
