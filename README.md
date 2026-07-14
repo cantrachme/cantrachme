@@ -3,15 +3,17 @@
 raising well behaved silicon.
 
 <img
-  src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
   align="left"
   width="350"
+  src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"
+  alt="Developer GIF"
 />
 
 <img
-  src="https://dummyimage.com/25x1/000000/000000.png&text="
-  width="25"
   align="left"
+  width="10"
+  src="https://dummyimage.com/10x1/000000/000000.png&text="
+  alt=""
 />
 
 ```text
@@ -24,3 +26,6 @@ Learning: Agentic workflow and iOS Development
 Currently Building: Live projects on Django and Agentic AI
 Hobbies: Reading books (sometimes), watching movies
 Tools: VS Code, Antigravity, Xcode, Docker, Postman, Jira, Teams
+```
+
+<br clear="left"/>
